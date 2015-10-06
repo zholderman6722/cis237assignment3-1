@@ -22,7 +22,7 @@ The program comes with an Interface IDroid that must be implemented by subclasse
 The program should have a base abstract class called Droid with the following variables, properties, constructors, methods, etc that implements the IDroid interface.
 
 Droid:
-* Variables: material (string), model (string), color (string), baseCost (double), totalCost (double)
+* Variables: material (string), model (string), color (string), baseCost (decimal), totalCost (decimal)
 * Constructors: 3 parameter constructor (string, string, string)
 * Property: TotalCost to return the cost of the droid (Required by the interface)
 * Methods:
