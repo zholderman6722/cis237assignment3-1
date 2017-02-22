@@ -3,7 +3,7 @@
 
 ## Author
 
-
+--Zachery Holderman
 
 ## Description
 
@@ -118,3 +118,4 @@ It may be beneficial for you to create extra methods within the droid sub classe
 
 
 ## Known Problems, Issues, And/Or Errors in the Program
+Need to work on UI - Still not operable but did all internal components.
